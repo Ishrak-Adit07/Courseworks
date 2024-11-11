@@ -1,2 +1,2 @@
 # Courseworks
- General courseworks during undergrad
+Theory and sessional courseworks during undergrad
